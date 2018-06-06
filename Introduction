@@ -1,0 +1,10 @@
+Solving problems with using machine learning is popular now. Maybe you have seen Competitions on Kaggle, courses on Coursera or EdX. For ML we have many tools like Scikit-learn, Tensor-flow, Caffe, Spark MLib and another.
+One of the basic and popular tasks is classification any data (text or images). 
+The Basic algorithm for solving a task like this is:
+
+Collect data and classify it
+Divide data-set to teach-set and test-set
+Collect classifiers and vectorizers
+Fit each classifier with teach-set and calculate accuracy with test-set
+Find classifier with the biggest accuracy
+Write API
